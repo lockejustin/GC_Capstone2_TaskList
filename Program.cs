@@ -437,6 +437,7 @@ namespace GC_Capstone2_TaskList
             taskList.Add(new Task("Steve Rogers", new DateTime(2020, 11, 20), "Polish shield", false));
             taskList.Add(new Task("Tony Stark", new DateTime(2020, 8, 1), "Go to sleep", false));
             taskList.Add(new Task("Natasha Romanov", new DateTime(2020, 8, 14), "Learn new language", false));
+            taskList.Add(new Task("Steve Rogers", new DateTime(2021, 01, 01), "Catch up on recent history", false));
 
             return taskList;
         }
