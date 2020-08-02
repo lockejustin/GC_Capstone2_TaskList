@@ -1,0 +1,13 @@
+C:\Users\Justin\source\repos\GC_Capstone2_TaskList\GC_Capstone2_TaskList\bin\Debug\netcoreapp3.1\GC_Capstone2_TaskList.exe
+C:\Users\Justin\source\repos\GC_Capstone2_TaskList\GC_Capstone2_TaskList\bin\Debug\netcoreapp3.1\GC_Capstone2_TaskList.deps.json
+C:\Users\Justin\source\repos\GC_Capstone2_TaskList\GC_Capstone2_TaskList\bin\Debug\netcoreapp3.1\GC_Capstone2_TaskList.runtimeconfig.json
+C:\Users\Justin\source\repos\GC_Capstone2_TaskList\GC_Capstone2_TaskList\bin\Debug\netcoreapp3.1\GC_Capstone2_TaskList.runtimeconfig.dev.json
+C:\Users\Justin\source\repos\GC_Capstone2_TaskList\GC_Capstone2_TaskList\bin\Debug\netcoreapp3.1\GC_Capstone2_TaskList.dll
+C:\Users\Justin\source\repos\GC_Capstone2_TaskList\GC_Capstone2_TaskList\bin\Debug\netcoreapp3.1\GC_Capstone2_TaskList.pdb
+C:\Users\Justin\source\repos\GC_Capstone2_TaskList\GC_Capstone2_TaskList\obj\Debug\netcoreapp3.1\GC_Capstone2_TaskList.csprojAssemblyReference.cache
+C:\Users\Justin\source\repos\GC_Capstone2_TaskList\GC_Capstone2_TaskList\obj\Debug\netcoreapp3.1\GC_Capstone2_TaskList.AssemblyInfoInputs.cache
+C:\Users\Justin\source\repos\GC_Capstone2_TaskList\GC_Capstone2_TaskList\obj\Debug\netcoreapp3.1\GC_Capstone2_TaskList.AssemblyInfo.cs
+C:\Users\Justin\source\repos\GC_Capstone2_TaskList\GC_Capstone2_TaskList\obj\Debug\netcoreapp3.1\GC_Capstone2_TaskList.csproj.CoreCompileInputs.cache
+C:\Users\Justin\source\repos\GC_Capstone2_TaskList\GC_Capstone2_TaskList\obj\Debug\netcoreapp3.1\GC_Capstone2_TaskList.dll
+C:\Users\Justin\source\repos\GC_Capstone2_TaskList\GC_Capstone2_TaskList\obj\Debug\netcoreapp3.1\GC_Capstone2_TaskList.pdb
+C:\Users\Justin\source\repos\GC_Capstone2_TaskList\GC_Capstone2_TaskList\obj\Debug\netcoreapp3.1\GC_Capstone2_TaskList.genruntimeconfig.cache
